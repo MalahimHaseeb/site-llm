@@ -15,4 +15,3 @@ generalizes beyond exact training phrasings for in-scope topics.
 
 ## Files
 - `training_notebook.ipynb` — full training run with output logs and debugging steps
-- `lora_adapter/` — trained LoRA weights (includes train.jsonl)
